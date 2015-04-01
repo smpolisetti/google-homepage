@@ -1,0 +1,28 @@
+#header
+{
+  top: 0;
+  width: 100%;
+}
+
+.headText
+{
+	display: inline;
+	float: right;
+	margin-right: 8px;
+	margin-left: 8px;
+	color: #404040;
+	font-size: 13px;
+	font-family: arial, sans-serf;
+}
+
+#footer
+{
+	bottom: 0;
+	left: 0;
+	width: 100%; 
+	line-height: 40px;
+	position: absolute;
+	height: 35px;
+	background-color: #f2f2f2; 
+	border-top: 1px solid #e4e4e4;
+}
